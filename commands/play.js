@@ -9,7 +9,7 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by RushiYaOG!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
 ║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
 ║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
@@ -166,10 +166,10 @@ module.exports = {
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by RushiYaOG!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.gg/Y7ztwEJUm2                   ║
+║  ## YouTube : https://www.youtube.com/@RushiYaMC                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
