@@ -1,4 +1,4 @@
-# Ermoi
+# Eromi
 LAVALINK BOT MADE BY RUSHITH.
 
 Fork the Repositry and add your bot token. Must turn on intents and run the code.
