@@ -9,10 +9,10 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by RushiYaOG!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.gg/Y7ztwEJUm2                   ║
+║  ## YouTube : https://www.youtube.com/@RushiYaMC                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -29,10 +29,10 @@ module.exports = {
   run: async (client, interaction) => {
     try {
 
-      const supportServerLink = "https://discord.gg/xQF9f9yUEM";
-      const githubLink = "https://github.com/GlaceYT";
-      const replitLink = "https://replit.com/@GlaceYT";
-      const youtubeLink = "https://www.youtube.com/@GlaceYT";
+      const supportServerLink = "https://discord.gg/Y7ztwEJUm2";
+      const githubLink = "https://github.com/@RushiYaOG";
+      const replitLink = "https://replit.com/@RushiYaOG";
+      const youtubeLink = "https://www.youtube.com/@RushiYaMC";
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
             .setAuthor({
@@ -62,10 +62,10 @@ module.exports = {
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by RushiYaOG!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.gg/Y7ztwEJUm2                   ║
+║  ## YouTube : https://www.youtube.com/@RushiYaMC                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
