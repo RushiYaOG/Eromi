@@ -9,10 +9,10 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by RushiYaOG!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.gg/Y7ztwEJUm2                   ║
+║  ## YouTube : https://www.youtube.com/@RushiYaMC                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -56,7 +56,7 @@ Your ultimate music companion on Discord. Here are the available commands:
         .setTitle(`${botName} Help`)
         .setThumbnail(client.user.displayAvatarURL()) 
         .setDescription(helpDescription)
-        .setFooter({ text: `Prime Music v1.0`, iconURL: client.user.displayAvatarURL() }) 
+        .setFooter({ text: `Eromi`, iconURL: client.user.displayAvatarURL() }) 
       
 
       return interaction.reply({ embeds: [embed] });
@@ -78,10 +78,10 @@ Your ultimate music companion on Discord. Here are the available commands:
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by RushiYaOG!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.gg/Y7ztwEJUm2                   ║
+║  ## YouTube : https://www.youtube.com/@RushiYaMC                         ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
